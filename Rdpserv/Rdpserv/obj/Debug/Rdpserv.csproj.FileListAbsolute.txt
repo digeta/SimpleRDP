@@ -1,0 +1,5 @@
+D:\Projecto\VisualBucket\crdp\Rdpserv\Rdpserv\bin\Debug\Rdpserv.exe
+D:\Projecto\VisualBucket\crdp\Rdpserv\Rdpserv\bin\Debug\Rdpserv.pdb
+D:\Projecto\VisualBucket\crdp\Rdpserv\Rdpserv\obj\Debug\Rdpserv.csprojResolveAssemblyReference.cache
+D:\Projecto\VisualBucket\crdp\Rdpserv\Rdpserv\obj\Debug\Rdpserv.exe
+D:\Projecto\VisualBucket\crdp\Rdpserv\Rdpserv\obj\Debug\Rdpserv.pdb

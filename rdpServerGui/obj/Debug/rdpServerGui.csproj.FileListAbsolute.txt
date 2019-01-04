@@ -1,0 +1,10 @@
+D:\Projecto\VisualBucket\crdp\rdpServerGui\bin\Debug\rdpServerGui.exe
+D:\Projecto\VisualBucket\crdp\rdpServerGui\bin\Debug\rdpServerGui.pdb
+D:\Projecto\VisualBucket\crdp\rdpServerGui\obj\Debug\rdpServerGui.csprojResolveAssemblyReference.cache
+D:\Projecto\VisualBucket\crdp\rdpServerGui\obj\Debug\Interop.RDPCOMAPILib.dll
+D:\Projecto\VisualBucket\crdp\rdpServerGui\obj\Debug\rdpServerGui.csproj.ResolveComReference.cache
+D:\Projecto\VisualBucket\crdp\rdpServerGui\obj\Debug\rdpServerGui.Form1.resources
+D:\Projecto\VisualBucket\crdp\rdpServerGui\obj\Debug\rdpServerGui.Properties.Resources.resources
+D:\Projecto\VisualBucket\crdp\rdpServerGui\obj\Debug\rdpServerGui.csproj.GenerateResource.Cache
+D:\Projecto\VisualBucket\crdp\rdpServerGui\obj\Debug\rdpServerGui.exe
+D:\Projecto\VisualBucket\crdp\rdpServerGui\obj\Debug\rdpServerGui.pdb

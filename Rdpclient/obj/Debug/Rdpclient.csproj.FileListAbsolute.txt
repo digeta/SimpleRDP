@@ -1,0 +1,8 @@
+D:\Projecto\VisualBucket\crdp\Rdpclient\bin\Debug\Rdpclient.exe
+D:\Projecto\VisualBucket\crdp\Rdpclient\bin\Debug\Rdpclient.pdb
+D:\Projecto\VisualBucket\crdp\Rdpclient\obj\Debug\Rdpclient.csprojResolveAssemblyReference.cache
+D:\Projecto\VisualBucket\crdp\Rdpclient\obj\Debug\Rdpclient.Form1.resources
+D:\Projecto\VisualBucket\crdp\Rdpclient\obj\Debug\Rdpclient.Properties.Resources.resources
+D:\Projecto\VisualBucket\crdp\Rdpclient\obj\Debug\Rdpclient.csproj.GenerateResource.Cache
+D:\Projecto\VisualBucket\crdp\Rdpclient\obj\Debug\Rdpclient.exe
+D:\Projecto\VisualBucket\crdp\Rdpclient\obj\Debug\Rdpclient.pdb
